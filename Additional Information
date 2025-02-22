@@ -1,0 +1,4 @@
+For the Network Packet Sniffer:
+
+- It is required to enable the sudo command from the Run in Administrations
+- To Install the Npcap for capturing and send packets to the networks
